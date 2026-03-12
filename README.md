@@ -42,7 +42,7 @@ zfused = α·zgate + β·a + γ·z̄ + δ·zbottleneck
 
 The fused vector is passed to a classification head for binary vulnerability prediction.
 
-![SA-VAF Architecture](assets/architecture.png)
+![SA-VAF Architecture](architecture.png)
 
 ---
 

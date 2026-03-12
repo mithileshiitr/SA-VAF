@@ -174,9 +174,7 @@ Key hyperparameters:
 
 A pretrained SA-VAF checkpoint is available for download:
 
-| Model | Dataset | F1 | Download |
-|---|---|---|---|
-| SA-VAF | Big-Vul | 92.15% | [Google Drive](https://drive.google.com/file/d/1tVl_OMZilFyBjheJugjnlpBkuvXaWbA8/view?usp=drive_link) |
+[SA-VAF](https://drive.google.com/file/d/1tVl_OMZilFyBjheJugjnlpBkuvXaWbA8/view?usp=drive_link) |
 
 Download and place the checkpoint in a `checkpoints/` directory before running evaluation.
 
